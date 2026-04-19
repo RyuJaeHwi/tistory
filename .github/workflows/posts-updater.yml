@@ -5,6 +5,7 @@ on:
     branches: [main]
   schedule:
     - cron: "0 0 */1 * *" # every 1 day
+  workflow_dispatch:
 
 jobs:
   build:

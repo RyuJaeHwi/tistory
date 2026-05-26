@@ -33,8 +33,8 @@ jobs:
         run: |
           git add .
           if [ -n "$(git status --porcelain)" ]; then
-            git config --local user.email "${{ secrets.EMAIL }}"
-            git config --local user.name "Nam Gi Beom"
+            git config --local user.email "yujaehwi02@gmail.com"
+            git config --local user.name "RyuJaeHwi"
             git commit -m "Update posts via workflow-${{ github.run_number }}"
             git push
           fi

@@ -3,3 +3,4 @@
 - [HTML &amp; CSS/CSS](https://github.com/RyuJaeHwi/tistory/tree/main/HTML &amp; CSS/CSS)
 - [백준 (Baekjoon)/백준 - 파이썬 풀이](https://github.com/RyuJaeHwi/tistory/tree/main/백준 (Baekjoon)/백준 - 파이썬 풀이)
 - [일상 (Daily Life)](https://github.com/RyuJaeHwi/tistory/tree/main/일상 (Daily Life))
+- [프론트엔드 (FrontEnd)/타입스크립트 (TypeScript)](https://github.com/RyuJaeHwi/tistory/tree/main/프론트엔드 (FrontEnd)/타입스크립트 (TypeScript))
